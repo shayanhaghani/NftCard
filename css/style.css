@@ -109,3 +109,16 @@ p {
     margin: 14px 2px 1px 8px;
 
  }
+
+ a:hover {
+  color: hsl(178, 100%, 50%) !important; 
+}
+
+h3:hover {
+    color: hsl(178, 100%, 50%) !important; 
+}
+
+.flex-container:hover .img {
+    
+    opacity: 0.3;
+}
