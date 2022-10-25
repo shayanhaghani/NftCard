@@ -155,3 +155,8 @@ a.name {
     letter-spacing: .55px;
     color: var(--White);
 }
+
+@media only screen and (max-width: 500px) {
+    .flex-item {
+        width: 88%;
+}
