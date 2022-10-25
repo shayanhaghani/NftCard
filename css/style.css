@@ -160,3 +160,13 @@ a.name {
     .flex-item {
         width: 88%;
 }
+
+    p.explain {
+        font-size: 18px;
+        margin: 2% 6%;
+    }
+
+    p.right.time {
+        margin-left: 41%;
+    }
+}
