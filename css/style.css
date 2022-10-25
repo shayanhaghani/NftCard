@@ -168,5 +168,15 @@ a.name {
 
     p.right.time {
         margin-left: 45%;
+        font-size: 13px;
+    }
+
+    .two {
+        margin: 10px;
+    }
+
+    p.left.eth {
+        margin-left: 6%;
+        font-size: 13px;
     }
 }
