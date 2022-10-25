@@ -194,6 +194,7 @@ a.name {
     transition: .3s ease;
     background-color: var(--cyan);
     opacity: 0;
+    z-index: 98;
   }
   
   .one:hover .overlay {
@@ -212,6 +213,7 @@ a.name {
     border: none;
     color: #000;
     font-size: 21px;
+    z-index:99;
 }
 
 h3:hover{
